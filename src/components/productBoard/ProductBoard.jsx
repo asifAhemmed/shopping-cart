@@ -2,7 +2,7 @@
 import Cart from "./Cart";
 import Filter from "./Filter";
 import ProductCards from "./ProductCards";
-import SearchBar from "./Searchbar";
+import SearchBar from "./SearchBar";
 import Sort from "./Sort";
 
 const ProductBoard = () => {
